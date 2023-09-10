@@ -6,7 +6,7 @@ My goto languages are C#, Python and Typescript. HLSL if I'm feeling frisky. �
 
 # What I have been up to:
 - Learning Typescript! Check out this smooth, low-latency [Graphing Calculator](https://github.com/jon-tj/Typescript-Testing/tree/main/Typescript%20Graphing%20Calculator) i made 😉
-- [Modeling stock markets.](https://github.com/jon-tj/stocks-trading-flask) Naturally, most of my research is undisclosed, but feel free to take a look at this public repository for inspiration 😎
+- Modeling stock markets. Naturally, most of my research is undisclosed, but feel free to take a look at this [public repository](https://github.com/jon-tj/stocks-trading-flask) for inspiration 😎
 
 
 <blockquote>"It's dangerous to go alone! take this." - some old man</blockquote>
